@@ -8,8 +8,8 @@
 		<version>3.2.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>ex</artifactId>
+	<groupId>com.roya</groupId>
+	<artifactId>starship</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>

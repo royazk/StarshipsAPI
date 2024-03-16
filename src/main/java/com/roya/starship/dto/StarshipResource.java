@@ -1,4 +1,4 @@
-package com.example.ex.dto;
+package com.roya.starship.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
