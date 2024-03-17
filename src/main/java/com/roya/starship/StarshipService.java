@@ -36,7 +36,7 @@ public class StarshipService {
     }
 
     public List<Starship> sorted(List<Starship> starships, String sortKey, String sortOrder) {
-        Comparator<Starship> comparator = null;
+        Comparator<Starship> comparator;
 
         switch (sortKey) {
             case "name":
