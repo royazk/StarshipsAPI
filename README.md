@@ -14,6 +14,7 @@ To run: Start the application and navigate to http://localhost:8080/api/v1/allSt
 This will display a list of all starships by name ascending
 
 If you would like to reverse the order, change asc to **desc**
+
 Currently, the sort key spans the following:
 
 - name
